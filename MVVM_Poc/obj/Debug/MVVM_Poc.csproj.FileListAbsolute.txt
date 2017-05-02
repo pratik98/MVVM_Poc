@@ -1,0 +1,14 @@
+D:\Pratik\github\MVVM_Poc\MVVM_Poc\bin\Debug\MVVM_Poc.exe.config
+D:\Pratik\github\MVVM_Poc\MVVM_Poc\bin\Debug\MVVM_Poc.exe
+D:\Pratik\github\MVVM_Poc\MVVM_Poc\bin\Debug\MVVM_Poc.pdb
+D:\Pratik\github\MVVM_Poc\MVVM_Poc\obj\Debug\View\MainWindow.g.cs
+D:\Pratik\github\MVVM_Poc\MVVM_Poc\obj\Debug\App.g.cs
+D:\Pratik\github\MVVM_Poc\MVVM_Poc\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Pratik\github\MVVM_Poc\MVVM_Poc\obj\Debug\MVVM_Poc_MarkupCompile.cache
+D:\Pratik\github\MVVM_Poc\MVVM_Poc\obj\Debug\MVVM_Poc_MarkupCompile.lref
+D:\Pratik\github\MVVM_Poc\MVVM_Poc\obj\Debug\View\MainWindow.baml
+D:\Pratik\github\MVVM_Poc\MVVM_Poc\obj\Debug\MVVM_Poc.g.resources
+D:\Pratik\github\MVVM_Poc\MVVM_Poc\obj\Debug\MVVM_Poc.Properties.Resources.resources
+D:\Pratik\github\MVVM_Poc\MVVM_Poc\obj\Debug\MVVM_Poc.csproj.GenerateResource.Cache
+D:\Pratik\github\MVVM_Poc\MVVM_Poc\obj\Debug\MVVM_Poc.exe
+D:\Pratik\github\MVVM_Poc\MVVM_Poc\obj\Debug\MVVM_Poc.pdb
