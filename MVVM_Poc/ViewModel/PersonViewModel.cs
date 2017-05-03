@@ -27,7 +27,7 @@ namespace MVVM_Poc.ViewModel
             set { _person = value; OnPropertyChanged("Person"); }
         }
 
-        private ObservableCollection<Person> _persons;
+        private ObservableCollection<Person> _persons; // ItemSource for listview in UI
         public ObservableCollection<Person> Persons
         {
             get { return _persons; }
